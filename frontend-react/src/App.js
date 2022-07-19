@@ -1,11 +1,17 @@
-
+import ResponsiveAppBar from "./components/ResponsiveAppBar/ResponsiveAppBar";
 
 
 const App = () => {
 
     return (
         <div className="App">
-            Planetarium GUI with React and Material UI
+            <ResponsiveAppBar />
+            <div>
+                Pages
+            </div>
+            <div>
+                Footer
+            </div>
         </div>
     );
 }

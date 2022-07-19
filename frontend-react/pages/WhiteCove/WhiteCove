@@ -1,0 +1,13 @@
+const WhiteCove = () => {
+
+    return (
+
+        <>
+        </>
+
+    );
+
+}
+
+
+export default WhiteCove;

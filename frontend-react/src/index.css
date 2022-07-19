@@ -28,7 +28,7 @@ body {
 
 .App {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     color: red;
     height: 100vh;
     padding: 0.5rem;
